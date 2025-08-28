@@ -1,0 +1,35 @@
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_weight="1"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        style="@style/tv"
+        android:text="DATOS DE LOS JUGADORES"
+        android:textStyle="bold"/>
+
+    <TextView
+        style="@style/tv"
+        android:text="NOMBRE JUGADOR 1: "/>
+
+    <EditText
+        style="@style/et"
+        android:hint="NOMBRE"
+        android:id="@+id/etNombre1"/>
+
+    <TextView
+        style="@style/tv"
+        android:text="NOMBRE JUGADOR 2: "/>
+
+    <EditText
+        style="@style/et"
+        android:hint="NOMBRE"
+        android:id="@+id/etNombre2"/>
+
+    <Button
+        style="@style/btn"
+        android:text="JUGAR"
+        android:id="@+id/btnJugar"/>
+
+</LinearLayout>

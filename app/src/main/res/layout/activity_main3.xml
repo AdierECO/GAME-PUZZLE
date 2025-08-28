@@ -1,0 +1,118 @@
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <RadioButton
+                style="@style/rBtn"
+                android:text="JUGADOR 1"
+                android:id="@+id/rb1"/>
+            <RadioButton
+                style="@style/rBtn"
+                android:text="JUGADOR 2"
+                android:id="@+id/rb2"/>
+        </RadioGroup>
+    </LinearLayout>
+    <LinearLayout android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_weight="1">
+        <ImageView style="@style/img"
+            android:background="@drawable/logo2"
+            android:id="@+id/img1"/>
+        <ImageView style="@style/img"
+            android:background="@drawable/logo2"
+            android:id="@+id/img2"/>
+        <ImageView style="@style/img"
+            android:background="@drawable/logo2"
+            android:id="@+id/img3"/>
+        <ImageButton style="@style/img"
+            android:background="@drawable/logo2"
+            android:id="@+id/img4"/>
+    </LinearLayout>
+    <LinearLayout android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_weight="1">
+        <ImageView style="@style/img"
+            android:background="@drawable/logo2"
+            android:id="@+id/img5"/>
+        <ImageView style="@style/img"
+            android:background="@drawable/logo2"
+            android:id="@+id/img6"/>
+        <ImageView style="@style/img"
+            android:background="@drawable/logo2"
+            android:id="@+id/img7"/>
+        <ImageButton style="@style/img"
+            android:background="@drawable/logo2"
+            android:id="@+id/img8"/>
+    </LinearLayout>
+    <LinearLayout android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_weight="1">
+        <ImageView style="@style/img"
+            android:background="@drawable/logo2"
+            android:id="@+id/img9"/>
+        <ImageView style="@style/img"
+            android:background="@drawable/logo2"
+            android:id="@+id/img10"/>
+        <ImageView style="@style/img"
+            android:background="@drawable/logo2"
+            android:id="@+id/img11"/>
+        <ImageButton style="@style/img"
+            android:background="@drawable/logo2"
+            android:id="@+id/img12"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="1">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="JUGADOR 1: "
+                android:textSize="35sp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="35sp"
+                android:layout_margin="10dp"
+                android:id="@+id/tvNombre1"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="JUGADOR 2: "
+                android:textSize="35sp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="35sp"
+                android:layout_margin="10dp"
+                android:id="@+id/tvNombre2"/>
+        </LinearLayout>
+    </LinearLayout>
+    <Button
+        style="@style/btn"
+        android:text="DATOS"
+        android:id="@+id/btnDatos"/>
+</LinearLayout>

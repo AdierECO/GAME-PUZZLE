@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="tv">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">35sp</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:paddingTop">20dp</item>
+    </style>
+
+    <style name="et">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">35sp</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="btn">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">35sp</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:background">@color/black</item>
+    </style>
+
+    <style name="rBtn">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_margin">10dp</item>
+    </style>
+
+    <style name="img">
+        <!-- Establece el ancho del elemento para que ocupe todo el espacio disponible -->
+        <item name="android:layout_width">match_parent</item>
+        <!-- Establece la altura del elemento para que ocupe todo el espacio disponible -->
+        <item name="android:layout_height">match_parent</item>
+        <!-- Añade un margen de 10dp alrededor del elemento para separarlo de otros elementos -->
+        <item name="android:layout_margin">10dp</item>
+        <!-- Asigna un peso de distribución a la vista para que se distribuya equitativamente en un layout con otros elementos -->
+        <item name="android:layout_weight">1</item>
+        <!-- Configura la escala de la imagen para que se recorte y se ajuste al espacio disponible, centrando la imagen -->
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+</resources>
