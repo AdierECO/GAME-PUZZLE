@@ -37,13 +37,13 @@ Encuentra las parejas de cartas antes que tu oponente. 🏆
 🏆 Fin del juego	Gana quien tenga más parejas
 
 💡 Tip: Memoriza rápido y sorprende a tus amigos. ¡La práctica hace al maestro!
-
-🛠️ Tecnologías
+---
+## 🛠️ Tecnologías
 Java SE 17 o superior
 
 Swing para la interfaz gráfica
-
-✨ Contribuciones
+---
+## ✨ Contribuciones
 ¡Las mejoras son bienvenidas!
 
 Haz un fork del repositorio.
