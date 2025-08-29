@@ -13,17 +13,18 @@ Solo necesitas **instalar, ejecutar y jugar**. Fácil y rápido.
 https://github.com/AdierECO/GAME-PUZZLE.git
 cd memorama-java
 ```
-2️⃣ Ejecutar la aplicación
+
+### 2️⃣ Ejecutar la aplicación
 Desde tu IDE favorito (IntelliJ, Eclipse, NetBeans) o terminal:
 
 bash
 Copiar código
 javac Main.java
 java Main
-3️⃣ Ingresar nombres
+### 3️⃣ Ingresar nombres
 Cuando se te solicite, ingresa tu nombre y el de tu oponente. 📝
 
-4️⃣ ¡A jugar!
+### 4️⃣ ¡A jugar!
 Encuentra las parejas de cartas antes que tu oponente. 🏆
 
 🎮 Cómo jugar
