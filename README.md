@@ -1,50 +1,57 @@
-🧠 Memorama en Java
+# 🧠 Memorama en Java
 
-¡Pon a prueba tu memoria con este divertido Memorama hecho en Java! 🎮
+¡Pon a prueba tu memoria con este divertido **Memorama** hecho en Java! 🎮  
 
-🚀 Cómo empezar
+---
 
-Solo necesitas instalar, ejecutar y jugar. Nada complicado.
+## 🚀 Cómo empezar
 
-Clona este repositorio:
+Solo necesitas **instalar, ejecutar y jugar**. Fácil y rápido.  
 
+### 1️⃣ Clonar el repositorio
+```bash
 git clone https://github.com/tu-usuario/memorama-java.git
+cd memorama-java
+2️⃣ Ejecutar la aplicación
+Desde tu IDE favorito (IntelliJ, Eclipse, NetBeans) o terminal:
 
-
-Abre el proyecto en tu IDE de Java favorito o compílalo desde la terminal:
-
+bash
+Copiar código
 javac Main.java
 java Main
+3️⃣ Ingresar nombres
+Cuando se te solicite, ingresa tu nombre y el de tu oponente. 📝
 
-
-Ingresa tu nombre y el de tu oponente cuando se te solicite. 📝
-
-¡Empieza a jugar y demuestra quién tiene la mejor memoria! 🏆
+4️⃣ ¡A jugar!
+Encuentra las parejas de cartas antes que tu oponente. 🏆
 
 🎮 Cómo jugar
+Acción	Descripción
+🔍 Voltear carta	Haz clic en la carta que quieras descubrir
+👫 Turno	Cada jugador voltea dos cartas por turno
+✅ Pareja encontrada	Si coinciden, ganas un punto
+🏆 Fin del juego	Gana quien tenga más parejas
 
-Encuentra las parejas de cartas antes que tu oponente.
-
-Cada vez que aciertes una pareja, ganas puntos.
-
-El jugador con más parejas al final, ¡gana! 🎉
-
-Tip: ¡Memoriza rápido y sorprende a tus amigos!
+💡 Tip: Memoriza rápido y sorprende a tus amigos. ¡La práctica hace al maestro!
 
 🛠️ Tecnologías
-
-Java SE (compatible con Java 17 o superior)
+Java SE 17 o superior
 
 Swing para la interfaz gráfica
 
 ✨ Contribuciones
-
-Si quieres mejorar el juego, agregar más niveles o nuevas funciones, eres más que bienvenido:
+¡Las mejoras son bienvenidas!
 
 Haz un fork del repositorio.
 
-Crea tu rama (git checkout -b feature/nueva-funcionalidad).
+Crea tu rama:
 
-Haz commit de tus cambios (git commit -m 'Agrega nueva función').
+bash
+Copiar código
+git checkout -b feature/nueva-funcionalidad
+Haz commit de tus cambios:
 
+bash
+Copiar código
+git commit -m "Agrega nueva función"
 Envía un pull request.
