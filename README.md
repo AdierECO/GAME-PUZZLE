@@ -27,6 +27,8 @@ Cuando se te solicite, ingresa tu nombre y el de tu oponente. 📝
 ### 4️⃣ ¡A jugar!
 Encuentra las parejas de cartas antes que tu oponente. 🏆
 
+---
+
 ## 🎮 Cómo jugar
 ### Acción	Descripción
 🔍 Voltear carta	Haz clic en la carta que quieras descubrir
