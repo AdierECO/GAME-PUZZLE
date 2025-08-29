@@ -10,7 +10,7 @@ Solo necesitas **instalar, ejecutar y jugar**. Fácil y rápido.
 
 ### 1️⃣ Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/memorama-java.git
+[git clone https://github.com/tu-usuario/memorama-java.git](https://github.com/AdierECO/GAME-PUZZLE.git)
 cd memorama-java
 2️⃣ Ejecutar la aplicación
 Desde tu IDE favorito (IntelliJ, Eclipse, NetBeans) o terminal:
