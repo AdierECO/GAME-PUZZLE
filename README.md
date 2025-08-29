@@ -44,9 +44,8 @@ Encuentra las parejas de cartas antes que tu oponente. 🏆
 
 
 ## 🛠️ Tecnologías
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-- ![Swing](https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white)
-
+- Java SE 17 o superior 
+- Swing para la interfaz gráfica
 ---
 
 ## ✨ Contribuciones
