@@ -45,7 +45,9 @@ Encuentra las parejas de cartas antes que tu oponente. 🏆
 Java SE 17 o superior
 
 Swing para la interfaz gráfica
+
 ---
+
 ## ✨ Contribuciones
 ¡Las mejoras son bienvenidas!
 
