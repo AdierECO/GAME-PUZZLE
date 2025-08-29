@@ -12,7 +12,7 @@ Solo necesitas **instalar, ejecutar y jugar**. Fácil y rápido.
 
 ### 1️⃣ Clonar el repositorio
 ```bash
-https://github.com/AdierECO/GAME-PUZZLE.git
+git clone https://github.com/AdierECO/GAME-PUZZLE.git
 cd memorama-java
 ```
 
